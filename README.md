@@ -16,7 +16,7 @@ This is a fairly simple and extensible kanban power-up for GitHub Projects that 
 
 Install it and run:
 ```bash
-git clone git@github.com:pauldariye/kanbanize.git
+git clone git@github.com:josephyamada/kanbanize.git
 cp .env.example .env # TODO: Add all env variables here
 cd kanbanize && yarn
 yarn dev
